@@ -11,6 +11,8 @@
 
 <div align="center">
   
+  [creds](https://www.newgrounds.com/art/view/dreamsbellart/fecto-elfilis)
+  
   ![](https://komarev.com/ghpvc/?username=FERMIPARADOXANSWER&label=COME+TEST+YOUR+METTLE,+OH+FLESH+AND+METAL+&color=55d4cc&style=flat-square)
   
 </div>
